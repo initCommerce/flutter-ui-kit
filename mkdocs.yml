@@ -1,0 +1,6 @@
+site_name: Init Commerce Flutter UI Kit docs
+theme:
+  name: material
+nav:
+    - Home: index.md
+    - About: about.md
