@@ -3,4 +3,6 @@ theme:
   name: material
 nav:
     - Home: index.md
+    - Module structure: module-structure.md
+    - Running the App: running-the-app.md
     - About: about.md
