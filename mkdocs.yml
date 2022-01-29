@@ -6,7 +6,7 @@ nav:
     - Setup enviroment: setup-enviroment.md
     - Project structure: project-structure.md
     - Module structure: module-structure.md
-    - Configs: configs.md
+    - Customization: customization.md
     - Adding a new feature: add-new-feature.md
     - Adding a new language: add-new-language.md
     - Running the App: running-the-app.md
